@@ -1,0 +1,20 @@
+{
+  "name": "Recurring Tickets",
+  "alias": "recurringtickets",
+  "description": "Create recurring ticket templates that automatically generate new conversations on a schedule (with idempotency).",
+  "version": "1.1.0",
+  "author": "Your Company",
+  "keywords": [
+    "recurring",
+    "schedule",
+    "tickets",
+    "maintenance"
+  ],
+  "active": 0,
+  "providers": [
+    "Modules\\RecurringTickets\\Providers\\RecurringTicketsServiceProvider"
+  ],
+  "img": "/modules/recurringtickets/img/recurringtickets-icon.png",
+  "latestVersionUrl": "",
+  "latestVersionZipUrl": ""
+}
